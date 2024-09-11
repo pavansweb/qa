@@ -1,0 +1,62 @@
+<section id="chapter1">
+        <h2>Chapter 1 -  </h2>
+        <div class="question">
+          <p>1)  </p>
+          <button class="show-answer">Show Answer</button>
+          <div class="answer" style="display: none;"> </div>
+        </div>
+
+        <div class="question">
+            <p>2)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>3)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>4)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>5)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>6)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>7)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>8)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>9)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+
+          <div class="question">
+            <p>10)</p>
+            <button class="show-answer">Show Answer</button>
+            <div class="answer" style="display: none;">Answer yet to be added</div>
+          </div>
+      </section>
